@@ -1,0 +1,7 @@
+{"emono":111,"ename":"deepali vaidya","sal":40000.00,"dept":[{"deptno":12,"dname":"Hr","dloc":"Mumbai"}],"Desg":"Analyst","mgr":[{"name":"satish","num":114}],"project":[{"name":"Project-1","Hrs":4},{"name":"project-3","Hrs":3}]}
+{"emono":112,"ename":"Amresh puri","sal":15000.00,"dept":[{"deptno":13,"dname":"Sales","dloc":"Pune"}],"Desg":"trainee","mgr":[{"name":"kartik","num":112}],"project":[{"name":"Project-2","Hrs":3},{"name":"project-1","Hrs":4}]}
+{"emono":113,"ename":"Kartik aryan","sal":44000.00,"dept":[{"deptno":12,"dname":"Hr","dloc":"Nagpur"}],"Desg":"scientist","mgr":[{"name":"satish","num":114}],"project":[{"name":"Project-1","Hrs":4},{"name":"project-3","Hrs":5}]}
+{"emono":114,"ename":"satish","sal":35000.00,"dept":[{"deptno":14,"dname":"Clerk","dloc":"Mumbai"}],"Desg":"manager","mgr":[{"name":"anil","num":115}],"project":[{"name":"Project-3","Hrs":5},{"name":"project-1","Hrs":4}]}
+{"emono":115,"ename":"dipak","sal":50000.00,"dept":[{"deptno":13,"dname":"management","dloc":"Bangalore"}],"Desg":"ceo","mgr":[{"name":"Kartik","num":126}],"project":[{"name":"Project-2","Hrs":3},{"name":"project-5","Hrs":6}]}
+
+db.employee.updateMany()
